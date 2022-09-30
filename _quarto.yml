@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Gayeon Yoo"
+  navbar:
+    search : true
+    logo: ./img/logo.png
+    background: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Blog"
+        href: docs/blog/index.qmd
+      - text: "R기초통계"
+        href: docs/rstat101/index.qmd
+      - about.qmd
+      - contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/7ryean
+        aria-label: 가연 Github
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
