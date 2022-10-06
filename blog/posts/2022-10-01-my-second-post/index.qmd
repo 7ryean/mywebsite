@@ -1,0 +1,22 @@
+---
+title: Seconde posts
+subtitle: 두번째 포스트
+description: | 
+  포트폴리오 만들기 어렵다
+categories: 
+  - 가연이의 두번째 글
+author: Gayeon yoo 
+date: 10/01/2022
+image: faceicon.png
+image-alt: "내 미모티콘"
+---
+
+![](faceicon.png){.preview-image fig-align="center" fig-alt="나의 귀여운 미모티콘."}
+
+내 마음대로 써보는 첫번째 글. 아까 첫번째는 연습이었어.
+
+-   note
+
+-   tip
+
+-   important

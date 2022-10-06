@@ -1,0 +1,18 @@
+---
+title: "Blog 상단 글을 다시 살리고 싶습니다"
+description: "description으로 적어봅니다. 이 곳은 포트폴리오는 아니고 정보 제공 목적의 글을 작성할 예정입니다"
+listing:
+  contents: posts/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: false
+  fields: [date, title, reading-time, description, cateories, image]
+  date-format: "YYYY/MM/DD"
+  feed: true
+page-layout: full
+margin-header: blog/signup.html
+title-block-banner: "#EDF3F9"
+title-block-banner-color: body
+---

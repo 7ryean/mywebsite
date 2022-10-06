@@ -3,18 +3,24 @@ project:
 
 website:
   title: "Gayeon Yoo"
+  page-footer:
+    left: |
+      Proudly supported by 가연
+    center:  
+      - text: "Contact"
+        href: contact.qmd
+
+    right:
+      - icon: github
+        href: https://github.com/7ryean
+        aria-label: 가연 Github
   navbar:
     search : true
-    logo: ./img/logo.png
-    background: dark
     left:
-      - href: index.qmd
-        text: Home
+      - text: "Home"
+        file: index.qmd
       - text: "Blog"
-        href: docs/blog/index.qmd
-      - text: "R기초통계"
-        href: docs/rstat101/index.qmd
-      - about.qmd
+        file: blog/index.qmd
       - contact.qmd
     right:
       - icon: github
@@ -24,8 +30,11 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    smooth-scroll: true
+    theme:       
+      - styles.css
+      - custom.scss
+
     toc: true
 
 editor: visual

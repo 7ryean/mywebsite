@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog 상단 글을 다시 살리고 싶습니다",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n  \n\n\n\n\n\n이것은 부제목입니다\n\n\n‘이것은 설명입니다. 앞에 적은 |는 무엇을 의미하는 건지 아직은 잘 모르겠습니다.’\n\n\n\n\n\n\n2022/10/06\n\n\n0 min\n\n\n\n\n\n\n  \n\n\n\n\n\n두번째 포스트\n\n\n포트폴리오 만들기 어렵다\n\n\n\n\n\n\n2022/10/01\n\n\n0 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/2022-10-01-my-first-post/index.html",
+    "href": "blog/posts/2022-10-01-my-first-post/index.html",
+    "title": "레이아웃을 바꿔보자!",
+    "section": "",
+    "text": "Jupyter와 Notion을 잘 사용하고 있어서 사용하는데 편리할 것 같습니다.\n\n\n우선 지금은 다른 것들을 따라해보고 있는 중인데요!\nexecute: \n\n  message: false\n\n  warning: false\n\neditor_options:\n\n  chunk_output_type: console\n이 부분이 무엇을 의미하는지는 아직 잘 모르겠습니다. 하지만 일단 적어놓고 확인하는게 빠르겠죠?"
+  },
+  {
+    "objectID": "blog/posts/2022-10-01-my-second-post/index.html",
+    "href": "blog/posts/2022-10-01-my-second-post/index.html",
+    "title": "Seconde posts",
+    "section": "",
+    "text": "내 마음대로 써보는 첫번째 글. 아까 첫번째는 연습이었어.\n\nnote\ntip\nimportant"
   },
   {
     "objectID": "contact.html",
@@ -14,24 +28,10 @@
     "text": "테스트 입니다~"
   },
   {
-    "objectID": "docs/rstat101/index.html",
-    "href": "docs/rstat101/index.html",
-    "title": "시작하며",
-    "section": "",
-    "text": "안녕하세요 첫페이지입니다"
-  },
-  {
-    "objectID": "docs/rstat101/lec1.html",
-    "href": "docs/rstat101/lec1.html",
-    "title": "1강",
-    "section": "",
-    "text": "x <- 1:10\ny <- x^2\nplot(x, y)"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my-quarto-website",
+    "title": "안녕하세요, 반갑습니다",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\\[\n\\int_a^b x^2 dx\n\\]"
+    "text": "제가 가지고 있는 능력치 소개, 그걸 토대로 방문자가 저에게 궁금한 점을 직접 신청할 수 있는(예를 들어 가연님! 이거 하실 줄 아시네요! 그럼 저 이거 소개해주세요! 하는 거) 칸을 만들고 싶습니다.\n그리고 이미지를 넣어서(아마 포트폴리오? 중에서도 시각화 한 것들이 주를 이루겠죠) 이미지를 클릭하면 해당 게시글로 넘어갈 수 있게 표현해보고 싶습니다.\n제 그림을 자랑할 수 있는 공간도 넣고 싶은데요, 그럴려면 그림을 더 열심히 그려야겠지요?\n\n포트폴리오 이미지\n\n VS Code \n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\\[\n\\int_a^b x^2 dx\n\\]"
   }
 ]

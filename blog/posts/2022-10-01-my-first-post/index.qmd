@@ -1,0 +1,35 @@
+---
+title: 레이아웃을 바꿔보자!
+date: '2022-10-06'
+categories: ['첫 글', '레이아웃 바꾸기']
+subtitle: '이것은 부제목입니다'
+description: |
+  '이것은 설명입니다. 앞에 적은 |는 무엇을 의미하는 건지 아직은 잘 모르겠습니다.'
+image: faceicon.png
+image-alt: "내 미모티콘"
+execute: 
+  message: false
+  warning: false
+editor_options:
+  chunk_output_type: console
+---
+
+## Markdown 형식이군요!
+
+Jupyter와 Notion을 잘 사용하고 있어서 사용하는데 편리할 것 같습니다.
+
+### 이건 뭐지?
+
+우선 지금은 다른 것들을 따라해보고 있는 중인데요!
+
+    execute: 
+
+      message: false
+
+      warning: false
+
+    editor_options:
+
+      chunk_output_type: console
+
+이 부분이 무엇을 의미하는지는 아직 잘 모르겠습니다. 하지만 일단 적어놓고 확인하는게 빠르겠죠?
