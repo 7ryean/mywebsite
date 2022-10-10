@@ -5,5 +5,21 @@
       "/blog/posts/2022-10-01-my-first-post/index.html",
       "/blog/posts/2022-10-01-my-second-post/index.html"
     ]
+  },
+  {
+    "listing": "/portfolio/index.html",
+    "items": []
+  },
+  {
+    "listing": "/portfolio/index_real.html",
+    "items": []
+  },
+  {
+    "listing": "/record/index.html",
+    "items": []
+  },
+  {
+    "listing": "/record/index_real.html",
+    "items": []
   }
 ]

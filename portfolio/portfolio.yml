@@ -1,0 +1,100 @@
+- category: Articles & Reports
+  description: |
+    Write a single markdown file and create output in a variety of formats.
+  tiles:
+    - title: 슬콕
+      subtitle: 이용중인 OTT 비교 분석 서비스
+      # 메인에서 밑줄 쳐져있는 제목 눌렀을 때 들어가는 페이지
+      href: https://github.com/7ryean/OTT_data_project
+      # 메인에서 코드 버튼 눌렀을 때 들어가는 페이지
+      code: https://github.com/7ryean/OTT_data_project/blob/main/dataset/OTT%EB%B3%84%20%EC%A0%84%EC%B2%98%EB%A6%AC_%EB%9F%AC%EB%8B%9D%ED%83%80%EC%9E%84_%EA%B5%AD%EA%B0%80.ipynb
+      thumbnail: portfolio_img/seoulkok.png
+    - title: Ssumpup
+      subtitle: 유튜브 영상 자동 번역 서비스
+      href: https://nmfs-opensci.github.io/quarto_titlepages/titlepages/bg-image/article.pdf
+      code: https://github.com/nmfs-opensci/quarto_titlepages/blob/main/titlepages/bg-image/article.qmd
+      # 이미지 크기가 다르면 메인에서 공백 발생. 이미지 크기 통일화 필요
+      thumbnail: portfolio_img/ssumup.png
+    - title: MS Word
+      subtitle: for Office workflows
+      href: https://quarto-dev.github.io/quarto-gallery/articles/msword/msword.docx
+      code:  https://github.com/quarto-dev/quarto-gallery/blob/main/articles/msword/msword.qmd
+      thumbnail: articles/articles-msword.png
+    - title: HTML
+      subtitle: with advanced layout
+      href: https://quarto-dev.github.io/quarto-gallery/page-layout/tufte.html
+      code: https://github.com/quarto-dev/quarto-gallery/blob/main/page-layout/tufte.qmd
+      thumbnail: articles/advanced-layout-html.png
+    - title: PDF
+      subtitle: with advanced layout
+      href: https://quarto-dev.github.io/quarto-gallery/page-layout/tufte.pdf
+      code: https://github.com/quarto-dev/quarto-gallery/blob/main/page-layout/tufte.qmd
+      thumbnail: articles/advanced-layout-pdf.png
+  
+- category: transcription
+  description: |
+    Publish collections of articles as a website
+  tiles:
+    - title: quarto.org 
+      subtitle: documentation
+      href: https://quarto.org
+      code: https://github.com/quarto-dev/quarto-web/
+      thumbnail: websites/websites-quarto.png
+    - title: R-Manuals
+      subtitle: documentation
+      href: https://rstudio.github.io/r-manuals/
+      code: https://github.com/rstudio/r-manualsweb
+      thumbnail: websites/websites-r-manuals.png
+    - title: Quarto tip a day
+      subtitle: blog
+      href: https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/
+      code: https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day
+      thumbnail: websites/websites-quartotip.png
+    - title: nbdev
+      subtitle: from fast.ai
+      href: https://nbdev.fast.ai/
+      code: https://github.com/fastai/nbdev
+      thumbnail: websites/websites-nbdev.png
+    - title: Practical Deep Learning
+      subtitle: from fast.ai
+      href: https://course.fast.ai/
+      code: https://github.com/fastai/course22/
+      thumbnail: websites/websites-practical-deep-learning.png
+    - title: Beatriz Milz
+      subtitle: personal website + blog
+      href: https://beamilz.com/
+      code: https://github.com/beatrizmilz/blog-en
+      thumbnail: websites/websites-bea-milz.png    
+
+- category: Books review
+  description: |
+    "데이터 분석에 관한 책을 읽고 정리합니다"
+  tiles:
+    - title: Hands on Programming with R
+      href: https://jjallaire.github.io/hopr/
+      thumbnail: websites/websites-hopr.png
+    - title: Visualization Curriculum
+      href: https://jjallaire.github.io/visualization-curriculum
+      # code를 지우면 코드 클릭 아이콘은 생성되지 않음. 코드 아이콘 대신 책은 구매나 평점 사이트로 넘어가도 좋을 것 같다.
+      code: https://github.com/jjallaire/visualization-curriculum
+      thumbnail: websites/websites-jupyter.png
+    - title: Python for Data Analysis, 3E
+      href: https://wesmckinney.com/book/
+      thumbnail: books/books-python-for-data.png
+    - title: R for Data Science, 2E
+      href: https://r4ds.hadley.nz/
+      code: https://github.com/hadley/r4ds/
+      thumbnail: books/books-r4ds.png      
+    - title: R Packages
+      href: https://r-pkgs.org/
+      code: https://github.com/hadley/r-pkgs/
+      thumbnail: books/books-r-pkgs.png  
+    - title: mlr3book
+      href: https://mlr3book.mlr-org.com/
+      code: https://github.com/mlr-org/mlr3book/tree/main/book/
+      thumbnail: books/books-mlr3book.png
+    - title: Telling Stories with Data
+      href: https://tellingstorieswithdata.com/
+      code: https://github.com/RohanAlexander/telling_stories
+      thumbnail: books/books-telling-stories.png
+      

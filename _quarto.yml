@@ -21,6 +21,10 @@ website:
         file: index.qmd
       - text: "Blog"
         file: blog/index.qmd
+      - text: "Portfolio"
+        file: portfolio/index.qmd
+      - text: "Record"
+        file: record/index.qmd
       - contact.qmd
     right:
       - icon: github

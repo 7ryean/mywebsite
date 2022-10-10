@@ -33,5 +33,19 @@
     "title": "안녕하세요, 반갑습니다",
     "section": "",
     "text": "제가 가지고 있는 능력치 소개, 그걸 토대로 방문자가 저에게 궁금한 점을 직접 신청할 수 있는(예를 들어 가연님! 이거 하실 줄 아시네요! 그럼 저 이거 소개해주세요! 하는 거) 칸을 만들고 싶습니다.\n그리고 이미지를 넣어서(아마 포트폴리오? 중에서도 시각화 한 것들이 주를 이루겠죠) 이미지를 클릭하면 해당 게시글로 넘어갈 수 있게 표현해보고 싶습니다.\n제 그림을 자랑할 수 있는 공간도 넣고 싶은데요, 그럴려면 그림을 더 열심히 그려야겠지요?\n\n포트폴리오 이미지\n\n VS Code \n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\\[\n\\int_a^b x^2 dx\n\\]"
+  },
+  {
+    "objectID": "portfolio/index_real.html",
+    "href": "portfolio/index_real.html",
+    "title": "포트폴리오를 확인할 수 있는 곳입니다",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "record/index_real.html",
+    "href": "record/index_real.html",
+    "title": "포트폴리오를 확인할 수 있는 곳입니다",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n\nNo matching items"
   }
 ]
