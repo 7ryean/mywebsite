@@ -12,12 +12,9 @@ title: "안녕하세요, 반갑습니다"
 
 #### 포트폴리오 이미지
 
-
 ::: {.tool .g-col-lg-9 .g-col-12}
 <a href="blog/posts/2020-10-01-my-first-post/index.qmd" role="button" class="btn btn-outline-light"> ![](blog/posts/2020-10-01-my-second-post/faceicon.png){width="77" fig-alt="VS Code logo."}VS Code </a>
 :::
-
-
 
 This is a Quarto website.
 

@@ -7,19 +7,17 @@
     ]
   },
   {
+    "listing": "/portfolio/daily_study/index.html",
+    "items": [
+      "/portfolio/daily_study/posts/2022-10-06/index.html"
+    ]
+  },
+  {
     "listing": "/portfolio/index.html",
     "items": []
   },
   {
     "listing": "/portfolio/index_real.html",
-    "items": []
-  },
-  {
-    "listing": "/record/index.html",
-    "items": []
-  },
-  {
-    "listing": "/record/index_real.html",
     "items": []
   }
 ]
